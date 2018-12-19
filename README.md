@@ -8,7 +8,7 @@ Use Case :
 
 -> Places : Contains MapFragment and pull up slider. Pins on Map can be dragged and repositioned, and distance/money captured dynamically.
 
--> JSONParser : Helper class to parse incoming Json data
+-> JSONParser : Helper class to parse incomings Json data
 
 -> GPS tracker : A service which updates location every minute or when user moves some distance
 
